@@ -3,8 +3,6 @@ Choose the most specific "quip", based on how many tags match a list of variable
 
 Intended to be used for barks, but could be adapted to pull any tagged info from an XML file.
 
-[logo]: https://github.com/ameinias/TestQuip/blob/master/Assets/Images/ScreenShot.jpg "screenshot"
-
 ![alt text](https://github.com/ameinias/TestQuip/blob/master/Assets/Images/ScreenShot.jpg "screenshot")
 
 
