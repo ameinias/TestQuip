@@ -5,6 +5,9 @@ Intended to be used for barks, but could be adapted to pull any tagged info from
 
 [logo]: https://github.com/ameinias/TestQuip/blob/master/Assets/Images/ScreenShot.jpg "screenshot"
 
+![alt text](https://github.com/ameinias/TestQuip/blob/master/Assets/Images/ScreenShot.jpg "screenshot")
+
+
 ## Unity Package
 [Skip git and download the .unitypackage](https://github.com/ameinias/TestQuip/blob/master/RelevantQuips_v2.unitypackage)
 
