@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Thu May 01 12:23:46 GMT+05:30 2014 -->
+<Quips>
+  <Quip id="1">
+    <name>I am sick of hanging out at the mall.</name>
+    <tags>mall,tired</tags>
+  </Quip>
+  <Quip id="2">
+    <name>This mall is awesome.</name>
+    <tags>mall</tags>
+  </Quip>
+  <Quip id="3">
+    <name>I'm about to leave this mall.</name>
+    <tags>mall,leaving,tired</tags>
+  </Quip>
+  <Quip id="4">
+    <name>I don't WANT to leave the mall!</name>
+    <tags>mall,leaving</tags>
+  </Quip>
+  <Quip id="5">
+    <name>I miss the mall.</name>
+    <tags>library</tags>
+  </Quip>
+  <Quip id="6">
+    <name>Book are stupid.</name>
+    <tags>library</tags>
+  </Quip>
+  <Quip id="7">
+    <name>Where's my vape?</name>
+    <tags>
+    </tags>
+  </Quip>
+  <Quip id="8">
+    <name>It's fine, I, like, don't even care.</name>
+    <tags>
+    </tags>
+  </Quip>
+  <Quip id="9">
+    <name>I'm going to need you to shut the hell up.</name>
+    <tags>mall,tired,hungry</tags>
+  </Quip>
+  <Quip id="10">
+    <name>Do you think these books are edible?</name>
+    <tags>library,hungry</tags>
+  </Quip>
+  <Quip id="22">
+    <name>I'm like, super annoyed or whatever.</name>
+    <tags>
+    </tags>
+  </Quip>
+  <Quip id="12">
+    <name>You're joking.</name>
+    <tags>
+    </tags>
+  </Quip>
+  <Quip id="13">
+    <name>I'm going to burn this bitch to the ground.</name>
+    <tags>mall,tired,leaving</tags>
+  </Quip>
+  <Quip id="14">
+    <name>Zzzz..</name>
+    <tags>tired</tags>
+  </Quip>
+  <Quip id="15">
+    <name>This is really engaging stuff.</name>
+    <tags>library,studying</tags>
+  </Quip>
+  <Quip id="48">
+    <name>What is that? Can I have some?</name>
+    <tags>marshmellow</tags>
+  </Quip>
+  <Quip id="34">
+    <name>You don't need that. You don't need anything. You're free.</name>
+    <tags>mall,tired</tags>
+  </Quip>
+  <Quip id="18">
+    <name>Are you going to finish that?</name>
+    <tags>hungry</tags>
+  </Quip>
+</Quips>
